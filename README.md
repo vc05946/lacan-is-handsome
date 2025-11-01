@@ -18,3 +18,6 @@ What Lacan teaches us / Ce que Lacan nous enseigne
 
 Psychoanalysis of Invention. Topology and Poetry / Psychanalyse de l'invention. Topologie et poésie
 （https://les-livres-de-philosophie.blogspot.com/2025/10/fabienne-hulak-psychanalyse-de.html?hash=d4a0bbe1-6e16-4595-a898-43d9b6171eff）
+
+## 蚊居肢
+（https://kaie14.blogspot.com/）
