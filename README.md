@@ -21,3 +21,6 @@ Psychoanalysis of Invention. Topology and Poetry / Psychanalyse de l'invention. 
 
 ## 蚊居肢
 （https://kaie14.blogspot.com/）
+
+## 日本病跡学会賞
+（https://pathog.umin.jp/pathography/award.html）
