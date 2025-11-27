@@ -10,12 +10,21 @@ This **return of the repressed** creates the distinctive emotional texture of un
 
 This produces an eerie oscillation between conscious dismissal and unconscious conviction.
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e9c1d0b0-1664-4115-a32c-6af51f4192e6" />
+
 ### Key Uncanny Motifs (Freud)
 - The **double** (doppelgänger)
 - Automata and lifelike dolls
 - Severed limbs that appear animated
 - The evil eye
 - Involuntary repetition
+
+| 🧠 Core Repressed Contents | Contextual Points from Freud |
+| :--- | :--- |
+| **Castration Anxiety** | • The uncanny is strongest in fiction (literature), as reality-testing inhibits the effect in real life. |
+| **Fear of Death** | • In fairy tales, these motifs usually lose their uncanniness because the supernatural premise is fully accepted and not a "return" from a repressed reality. |
+| **Return of Infantile Complexes** | • The feeling is distinct from simply being "terrifying." It is specifically a return of the familiar. |
+| **Omnipotence of Thoughts** | • The distinction between the *heimlich* (homely, familiar, concealed) and the *unheimlich* (unhomely, uncanny) is key to the entire concept. |
 
 These phenomena disturb fundamental categorical boundaries:
 - Animate ↔ inanimate
