@@ -10,14 +10,15 @@ This **return of the repressed** creates the distinctive emotional texture of un
 
 This produces an eerie oscillation between conscious dismissal and unconscious conviction.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e9c1d0b0-1664-4115-a32c-6af51f4192e6" />
-
 ### Key Uncanny Motifs (Freud)
-- The **double** (doppelgänger)
-- Automata and lifelike dolls
-- Severed limbs that appear animated
-- The evil eye
-- Involuntary repetition
+
+| Motif | Freud’s Psychoanalytic Explanation | Key Examples (from the essay & literature) |
+| :--- | :--- | :--- |
+| **The Double (Doppelgänger)** | Begins as a defense against fear of death (immortalizing the self), but becomes uncanny when primary narcissism and fear of death return from repression. Seeing one’s double foretells death. | • Nathanael seeing his reflection as the Sandman<br>• Mirrors, twins, déjà vu as self-recurrence<br>• Hoffmann’s “The Devil’s Elixirs” |
+| **Automata & Lifelike Dolls** | Revives childhood animism (belief that dolls are alive) and, more importantly, triggers doubt about whether something lifeless might actually be animate — linked to castration anxiety and fear of losing eyes/potency. | • Olympia the mechanical doll in “The Sandman”<br>• Wax figures, mannequins, seizure-like movements of epileptics mistaken for intention |
+| **Severed or Animated Limbs** | Most direct symbol of the castration complex: a detached body part that still moves reawakens the terror of castration. | • The crawling hand<br>• A dancing foot<br>• Prosthetic limbs with apparent will of their own |
+| **The Evil Eye / Malevolent Gaze** | Tied to archaic belief in the omnipotence of thoughts; the fear of being robbed of vitality or potency by an envious or hostile look (again linked to castration anxiety and fear of losing eyes). | • The Sandman who steals children’s eyes<br>• Being watched by unknown eyes in the dark |
+| **Involuntary Repetition** | The strongest and most universal source of the uncanny. When events repeat against our will, it feels like a demonic, fateful force — a return to the compulsion to repeat and the helplessness of early childhood or primitive animism. | • Repeatedly returning to the same street while lost<br>• The same number or motif recurring<br>• Fate in Oedipus or “The Ring of Polycrates” |
 
 | 🧠 Core Repressed Contents | Contextual Points from Freud |
 | :--- | :--- |
