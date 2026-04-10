@@ -24,3 +24,9 @@ Psychoanalysis of Invention. Topology and Poetry / Psychanalyse de l'invention. 
 
 ## 日本病跡学会賞
 （https://pathog.umin.jp/pathography/award.html）
+
+
+## Isabel Millar
+[Siri_what_is_psychoanalysis.pdf](https://github.com/user-attachments/files/26619076/Siri_what_is_psychoanalysis.pdf)
+[Ex_Machina_Sex_Knowledge_and_Artificial.pdf](https://github.com/user-attachments/files/26619075/Ex_Machina_Sex_Knowledge_and_Artificial.pdf)
+[The_Sexual_Relation_Does_Not_Exist_But_D.pdf](https://github.com/user-attachments/files/26619074/The_Sexual_Relation_Does_Not_Exist_But_D.pdf)
