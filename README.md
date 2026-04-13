@@ -30,3 +30,7 @@ Psychoanalysis of Invention. Topology and Poetry / Psychanalyse de l'invention. 
 [Siri_what_is_psychoanalysis.pdf](https://github.com/user-attachments/files/26619076/Siri_what_is_psychoanalysis.pdf)
 [Ex_Machina_Sex_Knowledge_and_Artificial.pdf](https://github.com/user-attachments/files/26619075/Ex_Machina_Sex_Knowledge_and_Artificial.pdf)
 [The_Sexual_Relation_Does_Not_Exist_But_D.pdf](https://github.com/user-attachments/files/26619074/The_Sexual_Relation_Does_Not_Exist_But_D.pdf)
+
+## 老垓蕤
+https://www.douban.com/people/39326928/?_i=6048596L4AzR5i
+https://www.douban.com/note/867758141/?type=like&_i=6047436L4AzR5i
