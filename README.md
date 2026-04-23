@@ -34,3 +34,6 @@ Psychoanalysis of Invention. Topology and Poetry / Psychanalyse de l'invention. 
 ## 老垓蕤
 https://www.douban.com/people/39326928/?_i=6048596L4AzR5i
 https://www.douban.com/note/867758141/?type=like&_i=6047436L4AzR5i
+
+## Derek Hook
+https://www.youtube.com/@derekhookonlacan
